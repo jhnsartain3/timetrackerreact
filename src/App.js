@@ -1,4 +1,3 @@
-import './App.css';
 import {BrowserRouter as Router, Route} from "react-router-dom";
 import routes from "../src/assets/routes";
 import React from "react";
